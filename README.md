@@ -4,9 +4,10 @@
 <h1 align="center"> IBGE </h1>
 <h1 align="center"> Data Gathering & Visualization </h1>
 
+![pptB327 pptm  Autosaved](https://user-images.githubusercontent.com/99502330/164994707-b43b9598-98bc-4483-b4ed-d29d75056067.png)
 
 
-![Data_Gahering1](https://user-images.githubusercontent.com/99502330/164989944-fb18a4a0-3dfd-42b6-87bd-5bccda6e706c.jpg)
+
 
 
 
@@ -19,16 +20,17 @@ The data visualization project is an important step in the workflow of a data an
 
 <h1 align="left"> Gathering Process </h1>
 
+![Data_Gahering1](https://user-images.githubusercontent.com/99502330/164994735-d49ad9f4-b517-4ea8-a9ce-bea36561a0ad.jpg)
 
-![Data_Gahering4](https://user-images.githubusercontent.com/99502330/164993238-9e42eba2-012f-4e56-82b5-5e538803d11b.jpg)
 
 <h1 align="left"> Libraries </h1>
 
+I used in this project: selenium, pandas, requests.
 
 
 <h1 align="left"> The Datasets </h1>
 
-![pptB327 pptm  Autosaved](https://user-images.githubusercontent.com/99502330/164989376-bad9b7db-7280-400c-adbf-c4bcf1ea0f4c.png)
+
 
 The population projections gathering in this project will support the analysis and simulations of the macroeconomic impacts.
 
