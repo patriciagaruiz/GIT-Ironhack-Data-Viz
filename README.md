@@ -4,8 +4,9 @@
 <h1 align="center"> IBGE </h1>
 <h1 align="center"> Data Gathering & Visualization </h1>
 
-![pptB327 pptm  Autosaved](https://user-images.githubusercontent.com/99502330/164989376-bad9b7db-7280-400c-adbf-c4bcf1ea0f4c.png)
 
+
+![Data_Gahering1](https://user-images.githubusercontent.com/99502330/164989944-fb18a4a0-3dfd-42b6-87bd-5bccda6e706c.jpg)
 
 
 
@@ -13,19 +14,36 @@
 
 The data visualization project is an important step in the workflow of a data analyst. It helps people take decision in a data driven manner and gain insights.
 
-![Humans are friends!](https://user-images.githubusercontent.com/99502330/161834340-92521684-877f-495d-8df9-ec22bfacb2fc.jpg)
+
 
 
 <h1 align="left"> Gathering Process </h1>
 
 
+![Data_Gahering3](https://user-images.githubusercontent.com/99502330/164989965-957236bd-d7b7-44ff-8dcc-6d5c4f52ce0e.jpg)
+
 <h1 align="left"> The Datasets </h1>
 
-The mission of the Global Shark Attack File is to provide current and historical data on shark/human interactions for those who seek accurate and meaningful information and verifiable references.
+![pptB327 pptm  Autosaved](https://user-images.githubusercontent.com/99502330/164989376-bad9b7db-7280-400c-adbf-c4bcf1ea0f4c.png)
+
+The population projections gathering in this project will support the analysis and simulations of the macroeconomic impacts.
+Population projections for Brasil were prepared by IBGE (2010 to 2060) and IPEA (2060 to 2100). 
+World population projections were prepared by ONU and The Lancet.
+
+colleted manually.
 Dataset available at: https://www.kaggle.com/datasets/teajay/global-shark-attacks.
 
 
-<h1 align="left"> Import File </h1>
+<h1 align="left"> Import Data </h1>
+
+Population projections for Brasil were prepared part by IBGE (2010 to 2060) and part by IPEA (2060 to 2100). 
+
+
+Data about IPEA were colleted mannually. Data available at: https://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=38577&catid=10&Itemid=9
+World population projections were prepared by ONU and The Lancet. 
+Data about ONU available at: https://news.un.org/pt/story/2019/06/1676601 and https://news.un.org/pt/story/2017/06/1589091-populacao-mundial-atingiu-76-bilhoes-de-habitantes.
+Data about The Lancet available at: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30677-2/fulltext
+
 
 The dataset has 25.723 lines and 24 columns.
 
