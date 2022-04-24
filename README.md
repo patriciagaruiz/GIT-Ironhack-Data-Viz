@@ -27,22 +27,28 @@ The data visualization project is an important step in the workflow of a data an
 ![pptB327 pptm  Autosaved](https://user-images.githubusercontent.com/99502330/164989376-bad9b7db-7280-400c-adbf-c4bcf1ea0f4c.png)
 
 The population projections gathering in this project will support the analysis and simulations of the macroeconomic impacts.
+
 Population projections for Brasil were prepared by IBGE (2010 to 2060) and IPEA (2060 to 2100). 
+
 World population projections were prepared by ONU and The Lancet.
 
-colleted manually.
-Dataset available at: https://www.kaggle.com/datasets/teajay/global-shark-attacks.
+Data about ONU available at: https://news.un.org/pt/story/2019/06/1676601 and https://news.un.org/pt/story/2017/06/1589091-populacao-mundial-atingiu-76-bilhoes-de-habitantes.
+
+Data about The Lancet available at: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30677-2/fulltext.
 
 
-<h1 align="left"> Import Data </h1>
+<h1 align="left"> ETL Process </h1>
 
-Population projections for Brasil were prepared part by IBGE (2010 to 2060) and part by IPEA (2060 to 2100). 
+Population projections for Brasil by IBGE (2010 to 2060) is available at: https://www.ibge.gov.br/apps/populacao/projecao/index.html?utm_source=portal&utm_medium=popclock&utm_campaign=novo_popclock. 
 
 
 Data about IPEA were colleted mannually. Data available at: https://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=38577&catid=10&Itemid=9
+
 World population projections were prepared by ONU and The Lancet. 
-Data about ONU available at: https://news.un.org/pt/story/2019/06/1676601 and https://news.un.org/pt/story/2017/06/1589091-populacao-mundial-atingiu-76-bilhoes-de-habitantes.
-Data about The Lancet available at: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30677-2/fulltext
+
+
+
+
 
 
 The dataset has 25.723 lines and 24 columns.
