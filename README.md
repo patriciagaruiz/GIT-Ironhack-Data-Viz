@@ -25,7 +25,7 @@ The data visualization project is an important step in the workflow of a data an
 
 <h1 align="left"> Libraries </h1>
 
-I used in this project: selenium, pandas, requests.
+I have used in this project: selenium, pandas, requests.
 
 
 <h1 align="left"> The Datasets </h1>
@@ -36,9 +36,9 @@ The population projections gathering in this project will support the analysis a
 
 <h2 align="left">  Population Projections for Brasil </h2>
   
-Population projections for Brasil were prepared by IBGE (2010 to 2060) and IPEA (2060 to 2100). 
+IBGE (2010 to 2060) and IPEA (2060 to 2100) are the source of Brazilian Population projections. 
 
-Data about IPEA were colleted mannually. Data available at: https://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=38577&catid=10&Itemid=9.
+IPEA's data were mannually colleted. Data available at: https://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=38577&catid=10&Itemid=9.
 
 
 
