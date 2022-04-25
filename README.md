@@ -5,6 +5,7 @@
 <h1 align="center"> Data Gathering & Visualization </h1>
 
 ![pptB327 pptm  Autosaved](https://user-images.githubusercontent.com/99502330/164994707-b43b9598-98bc-4483-b4ed-d29d75056067.png)
+<img width="769" alt="IPEA2" src="https://user-images.githubusercontent.com/99502330/165136309-76716eb0-0d28-431e-9cfb-657833b5d0c2.png">
 
 
 
