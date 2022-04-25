@@ -49,7 +49,7 @@ ONU and The Lancet are the sources of World Population projections.
 
 ONU's data were mannually collected. Data available at: https://news.un.org/pt/story/2019/06/1676601 and https://news.un.org/pt/story/2017/06/1589091-populacao-mundial-atingiu-76-bilhoes-de-habitantes.
 
-The Lancet's data were mannually collected. Data available at: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30677-2/fulltext.
+The Lancet's data (Fertility, mortality, migration, and population scenarios for 195 countries and territories from 2017 to 2100: a forecasting analysis for the Global Burden of Disease Study) were mannually collected. Data available at: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30677-2/fulltext.
 
 This project has 2 dataframes collected from IBGE (general data and data by age group) and 2 dataframes created using IPEA's data.
 
