@@ -35,7 +35,7 @@ I have used in this project: selenium, pandas, requests.
 
 The population projections gathering in this project will support the analysis and simulations of the macroeconomic impacts.
 
-<h2 align="left">  Population Projections for Brasil </h2>
+<h2 align="left">  Brazilian Population Projections </h2>
   
 IBGE (2010 to 2060) and IPEA (2060 to 2100) are the source of Brazilian Population projections. 
 
