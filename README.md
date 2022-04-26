@@ -57,7 +57,7 @@ This project has 2 dataframes collected from IBGE (general data and data by age 
 
 Population projections for Brasil by IBGE (2010 to 2060) is available at: https://www.ibge.gov.br/apps/populacao/projecao/index.html?utm_source=portal&utm_medium=popclock&utm_campaign=novo_popclock. 
 
-I have used Selenium as a tool for performing web-scraping using an automated-browser. I have faced a technical issue while running the gathering process, then I have worked around it using Google Sheet in order to collect the data.
+I have used Selenium as a tool for performing web-scraping using an automated-browser. I have faced a technical issue while running the gathering process, then I have worked around it using Google Forms in order to collect the data.
 
 These files have many headers inside the rows, so I collected the data of each file in pieces. IBGE's data returns one file for state, so I concatenated all states into an unique dataframe. 
 
